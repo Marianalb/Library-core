@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Refactoring
+Version: 0.0.1
+Summary: A simple library
+Home-page: https://github.com/Marianalb/Refactoring.git
+Author: Marianalb
+Author-email: mariana_bento97@hotmail.com
+License: UNKNOWN
+Description: # Refactoring
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
