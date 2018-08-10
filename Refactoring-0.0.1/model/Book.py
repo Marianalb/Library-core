@@ -8,4 +8,4 @@ class Book(object):
         self.name = name
 
     def printMe(self):
-        print "Book teste [id %s | name: %s]" % (self.id, self.name)
+        print "Book [id %s | name: %s]" % (self.id, self.name)
